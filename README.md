@@ -1,4 +1,4 @@
-# Exploring_the_Impact-of-Image_Permutation_on_Classification_Performance
+# Exploring the Impact-of-Image Permutation on Classification Performance
 This repository contains code, documentation, and analysis for a project exploring the impact of image permutation on the performance of neural network classifiers. The project investigates how segmenting images into tiles and applying various permutation patterns affects classification accuracy and the learning process of neural networks.
 
 ## Abstract:
